@@ -32,7 +32,7 @@ const cartIconSvg = document.querySelector('#cart-icon-svg');
 const navLinkItem = document.querySelectorAll('.nav__link__item');
 const searchIconSvg = document.querySelector("#search-icon-svg");
 const mobileMenuNav = document.querySelector(".mobile-menu__nav");
-export const baseUrl = 'http://localhost:5000';
+export const baseUrl = 'https://erfansahaf.github.io/erfansahaf/';
 
 // MOBILE MENU
 mobileMenuIcon.addEventListener("click", () => {
